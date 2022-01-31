@@ -1,7 +1,7 @@
 forge 'https://forge.puppet.com'
 
 mod 'apache',
-  :git => 'https://github.com/tobylinux/puppet-apache'
+  :git => 'git@github.com:tobylinux/puppet-apache'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
